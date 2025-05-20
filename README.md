@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do GbrielLINovaesDev 😁
+## Bem-vindo(a) ao perfil do GabrielLINovaesDev 😁
 
  <div>
    <a href="https://github.com/GabrielLiNovaesDev">
