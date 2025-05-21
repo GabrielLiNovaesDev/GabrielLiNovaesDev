@@ -1,7 +1,7 @@
 # 🚀 Gabriel Lima Novaes - Desenvolvedor Full Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=7A3CE7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Soluções+Criativas" alt="Título animado" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=7A3CE7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Soluções+Criativas" alt="Título animado" />
 </div>
 
 ---
